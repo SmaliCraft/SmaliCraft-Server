@@ -1,0 +1,2 @@
+# SmaliCraft-Server
+server
